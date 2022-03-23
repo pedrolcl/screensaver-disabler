@@ -27,4 +27,6 @@ Please take a look to the win32 API function [SetThreadExecutionState](https://d
         static extern EXECUTION_STATE SetThreadExecutionState(EXECUTION_STATE esFlags);
 		
 
-This program is written in C# for NET Framework 7, and will run in 32 and 64 bit Windows 10 systems.
+This program is written in C# for NET Framework 4.7, and will run in 32 and 64 bit Windows 10 systems.
+
+You may want to try [PowerToys Awake](https://den.dev/blog/powertoys-awake/) as well, which is just another [open source neighbour](https://github.com/microsoft/PowerToys).
